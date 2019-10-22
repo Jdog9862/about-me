@@ -4,7 +4,7 @@
 
 -**Graduating from BHS:** 2020
 
--**My Favoret game** 
+-**My Favoret video game** 
 
 ![Favoret Game](./bo2.jfif)
 
