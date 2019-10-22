@@ -10,7 +10,7 @@
 
 
 # Summary
-Hello world! I am Jarred Smith. I am a student at Brockton High School, and thats about it. I like aquatic animals but hate the taste of salt water. My favorite color is terquoise. I play video games. 
+Hello world! I am Jarred Smith. I am a student at Brockton High School, and thats about it. I like aquatic animals but hate the taste of salt water. My favorite color is terquoise. I'm not that big of a fan about watching televison but there are a few shows I like watching but do not know the names of.
 
 #Family 
 I have a mom, a dad, 4 brothers, and 6 sisters.
