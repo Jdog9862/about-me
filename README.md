@@ -18,4 +18,4 @@ I have a mom, a dad, 4 brothers, and 6 sisters.
 #Skills
 
 #Hobbies
-I enjoy playig viddeo games with my online friends, I also enjoy hanging out with friends IRL, I like building things and creating what I see online.
+I enjoy playing video games with my online friends, I also enjoy hanging out with friends IRL, I like building things and Inventing also creating what I see online that seems cool.
